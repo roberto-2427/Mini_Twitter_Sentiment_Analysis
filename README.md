@@ -17,7 +17,7 @@ The final step of the project was to visualize the relationship between the sent
 ### Sentiment Score vs. Number of Retweets
 Below is the scatter plot generated from the processed data:
 
-![Sentiment Analysis Chart](Diagram.png)
+<img src="Diagram.png" alt="Sentiment Analysis Chart" width="400">
 
 > **Observation:** This chart helps to visualize whether positive or negative tweets tend to receive more retweets.
 
